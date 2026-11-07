@@ -7,3 +7,5 @@
 - Pollo, Pavita, Pescado carne azul
 - Enselada con aceite de oliva
 - Arroz integra o menestras
+## Cena
+- Filtrante
